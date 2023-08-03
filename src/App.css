@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.completed {
+  text-decoration: line-through;
+  color: pink;
+}
+
+* {
+  font-size: 40px;
+}
+
+.container {
+  display: flex;
+  gap: 200px;
+}
